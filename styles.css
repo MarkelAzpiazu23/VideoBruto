@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f4f8; 
+    font-family: Arial, sans-serif; 
+}
+
+header {
+    border-bottom: 2px solid #ffffff; 
+}
+
+.video-container {
+    background-color: #ffffff; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+}
+
+video {
+    width: 100%; 
+    height: auto; 
+}
+
+footer {
+    background-color: #343a40; 
+    color: white; 
+    padding: 10px 0; 
+    position: relative;
+}
